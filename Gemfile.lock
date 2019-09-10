@@ -46,7 +46,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activerecord
+  activerecord (~> 5.2.3)
   pry
   rake
   rspec
